@@ -1,4 +1,4 @@
-# Graph_Extraction_and_digitization_from_Image
+# Graph Extraction and Digitization from Image
 This repository contains code for extracting a graph from an image using Python and OpenCV.
 
 The graph() function takes an input image and performs the following steps to generate the graph:
